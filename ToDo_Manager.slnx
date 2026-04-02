@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Model/Model.csproj" Id="9d00288f-9bda-4b3a-a1ff-d422152d0fc8" />
+  <Project Path="ToDo_Manager/ToDo_Manager.csproj" Id="532915db-ec20-4648-a597-119f4af583aa" />
+  <Project Path="ViewModel/ViewModel.csproj" Id="27ebde53-96ce-4ee6-a425-a162372eb64b" />
+</Solution>
